@@ -10,7 +10,7 @@ Este proyecto es una API RESTful construida con Node.js y Express. Proporciona e
 ## Instalación
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu_usuario/tu_proyecto.git
+   git clone https://github.com/cstgarcia1204/api-node.git
 
 ## Endpoints
 - GET /estudiantes: Obtiene todos los estudiantes.
